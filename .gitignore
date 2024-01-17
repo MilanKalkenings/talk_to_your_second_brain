@@ -1,2 +1,6 @@
 credentials
 indices
+__pycache__
+monitoring
+.idea
+config.py
